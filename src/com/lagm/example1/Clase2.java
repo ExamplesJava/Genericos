@@ -1,4 +1,4 @@
-package com.lagm;
+package com.lagm.example1;
 
 public class Clase2<K, T, V, E> {
 	private K objetoK;

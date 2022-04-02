@@ -1,4 +1,4 @@
-package com.lagm;
+package com.lagm.example1;
 
 public class App {
 	public static void main(String[] args) {
